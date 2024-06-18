@@ -1,5 +1,3 @@
-# This-Is-Suhrid-apparently.github.io
-
 # Masters Student | Machine Learning
 # The Pennsylvania State University
 

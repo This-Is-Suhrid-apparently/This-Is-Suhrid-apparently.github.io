@@ -41,7 +41,7 @@
 
 
 ## Publications
-1. Suhrid Das, Ziyaur Rahman, S. M. Zafaruddin: Optical Wireless Transmissions over Multi-layer Underwater Channels with Generalized Gamma Fading (2022). DOI: 10.1109/VTC2022-Spring54318.2022.9861003
-2. Suhrid Das, Shankha Shubhra Mukherjee, Sudip Mandal: Application Of Chaotic Neural Network In Cryptography (2022). DOI: 10.5120/ijca2022922133
+1. Suhrid Das, Ziyaur Rahman, S. M. Zafaruddin: Optical Wireless Transmissions over Multi-layer Underwater Channels with Generalized Gamma Fading (2022). DOI: [Link to Paper](10.1109/VTC2022-Spring54318.2022.9861003)
+2. Suhrid Das, Shankha Shubhra Mukherjee, Sudip Mandal: Application Of Chaotic Neural Network In Cryptography (2022). DOI: [Link to Paper](10.5120/ijca2022922133)
 
 

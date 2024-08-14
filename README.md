@@ -8,16 +8,16 @@
 - B.Tech, Electronics and Communication Engineering | Jalpaiguri Government Engineering College (_June 2022_)
 
 ## Work Experience
-**Machine Learning Engineer @Eriez (_May 2024 - July 2024_)**
+**Machine Learning Engineer @Eriez (_May 2024 - Jul 2024_)**
 - Conducted data-collection, pre-processing, and modeling for developing novel domain-enriched classification models for identifying metal contaminants for industrial metal detection. 
 - Developed Physically-informed learnable Denoisers for curating inputs from noisy time-series data.
 - Worked under the supervision of [Dr. Ankit Tyagi](https://www.linkedin.com/in/antyagi5/) and [Dr. Vishal Monga](https://www.linkedin.com/in/vishal-monga-a639153/)
 
-**Graduate Research Assistant @PennState (_January 2024 - December 2024_)**
+**Graduate Research Assistant @PennState (_Jan 2024 - Dec 2024_)**
 - Used LSTM and Attention-based architectures on temporal physical features for Multiple Classification-based tasks.
 - Worked under the supervision of [Dr. Vishal Monga](https://www.linkedin.com/in/vishal-monga-a639153/)
 
-**Graduate Research Assistant @PennState (_May 2023 - December 2023_)**
+**Graduate Research Assistant @PennState (_May 2023 - Dec 2023_)**
 - Worked on the comparative study of Deep Learning based surrogate models vs Differential Surrogate Models.
 - Built Physics-based models that utilize NeuralODE to effectively model and solve dynamic systems.
 - Worked under the supervision of [Dr. Daniel Kifer](https://www.linkedin.com/in/danielkifer/) and [Dr. Chaopeng Shen](https://www.linkedin.com/in/chaopeng/)

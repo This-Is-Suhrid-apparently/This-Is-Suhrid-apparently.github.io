@@ -41,9 +41,9 @@
 - Taught a course on the introduction to neural nets(EE 456) providing experiences in identifying the best types of NNs for a particular task, developing and applying them to solve difficult problems.
 
 ## Publications
-1. Suhrid Das, Ankit Tyagi, Vishal Monga: Physically-Enriched Product Adaptive Deep Networks for Industrial Metal Detection (in preparation). IEEE Sensors Journal 
-2. Suhrid Das, Ziyaur Rahman, S. M. Zafaruddin: Optical Wireless Transmissions over Multi-layer Underwater Channels with Generalized Gamma Fading (2022). DOI: 10.1109/VTC2022-Spring54318.2022.9861003 || [Link](https://ieeexplore.ieee.org/abstract/document/9861003)
-3. Suhrid Das, Shankha Shubhra Mukherjee, Sudip Mandal: Application Of Chaotic Neural Network In Cryptography (2022). DOI: 10.5120/ijca2022922133 || [Link](https://www.ijcaonline.org/archives/volume184/number13/32388-2022922133/)
+- Suhrid Das, Ankit Tyagi, Vishal Monga: Physically-Enriched Product Adaptive Deep Networks for Industrial Metal Detection (in preparation). IEEE Sensors Journal 
+- Suhrid Das, Ziyaur Rahman, S. M. Zafaruddin: Optical Wireless Transmissions over Multi-layer Underwater Channels with Generalized Gamma Fading (2022). DOI: 10.1109/VTC2022-Spring54318.2022.9861003 || [Link](https://ieeexplore.ieee.org/abstract/document/9861003)
+- Suhrid Das, Shankha Shubhra Mukherjee, Sudip Mandal: Application Of Chaotic Neural Network In Cryptography (2022). DOI: 10.5120/ijca2022922133 || [Link](https://www.ijcaonline.org/archives/volume184/number13/32388-2022922133/)
 
 ## References
 1. [Vishal Monga](https://www.eecs.psu.edu/departments/directory-detail-g.aspx?q=VUM4) || Professor, School of Electrical Engineering and Computer Science, The Pennsylvania State University, State College Email: vum4@psu.edu Phone: +1-814-863-1267

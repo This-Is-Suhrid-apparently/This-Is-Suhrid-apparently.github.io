@@ -46,10 +46,10 @@
 - Suhrid Das, Shankha Shubhra Mukherjee, Sudip Mandal: Application Of Chaotic Neural Network In Cryptography (2022). DOI: 10.5120/ijca2022922133 || [Link](https://www.ijcaonline.org/archives/volume184/number13/32388-2022922133/)
 
 ## References
-1. [Vishal Monga](https://www.eecs.psu.edu/departments/directory-detail-g.aspx?q=VUM4) || Professor, School of Electrical Engineering and Computer Science, The Pennsylvania State University, State College Email: vum4@psu.edu Phone: +1-814-863-1267
-2. [Ankit Tyagi](https://www.linkedin.com/in/antyagi5/) || R&D Manager – Electrical and Software Engineering, Eriez Manufacturing, Erie, PA Email: atyagi@eriez.com Phone: +1-631-561-8522
-3. [Daniel Kifer](https://www.cse.psu.edu/~duk17/) || Professor, Computer Science and Engineering, The Pennsylvania State University, State College Email: duk17@psu.edu Phone: +1-814-863-1187
-4. [Chaopeng Shen](https://water.engr.psu.edu/shen/) || Professor, Civil and Environmental Engineering, The Pennsylvania State University, State College Email: cxs1024@psu.edu Phone: +1-814-863-5844
+- [Vishal Monga](https://www.eecs.psu.edu/departments/directory-detail-g.aspx?q=VUM4) || Professor, School of Electrical Engineering and Computer Science, The Pennsylvania State University, State College Email: vum4@psu.edu Phone: +1-814-863-1267
+- [Ankit Tyagi](https://www.linkedin.com/in/antyagi5/) || R&D Manager – Electrical and Software Engineering, Eriez Manufacturing, Erie, PA Email: atyagi@eriez.com Phone: +1-631-561-8522
+- [Daniel Kifer](https://www.cse.psu.edu/~duk17/) || Professor, Computer Science and Engineering, The Pennsylvania State University, State College Email: duk17@psu.edu Phone: +1-814-863-1187
+- [Chaopeng Shen](https://water.engr.psu.edu/shen/) || Professor, Civil and Environmental Engineering, The Pennsylvania State University, State College Email: cxs1024@psu.edu Phone: +1-814-863-5844
    
 
    

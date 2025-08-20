@@ -51,6 +51,7 @@
 
 ## Publications
 - Suhrid Das, Ankit Tyagi, Vishal Monga: Towards Developing Frequency Robustness via Domain Enriched AI for Industrial Metal Detection. IEEE Sensors Conference 2025. (Accepted)
+  
 - Suhrid Das, Ankit Tyagi, Vishal Monga: Physically-Enriched Product Adaptive Deep Networks for Industrial Metal Detection. IEEE Sensors Journal. DOI: 10.1109/JSEN.2025.3562705 || [Link](https://ieeexplore.ieee.org/document/10977754)
 - Suhrid Das, Ziyaur Rahman, S. M. Zafaruddin: Optical Wireless Transmissions over Multi-layer Underwater Channels with Generalized Gamma Fading (2022). DOI: 10.1109/VTC2022-Spring54318.2022.9861003 || [Link](https://ieeexplore.ieee.org/abstract/document/9861003)
 - Suhrid Das, Shankha Shubhra Mukherjee, Sudip Mandal: Application Of Chaotic Neural Network In Cryptography (2022). DOI: 10.5120/ijca2022922133 || [Link](https://www.ijcaonline.org/archives/volume184/number13/32388-2022922133/)

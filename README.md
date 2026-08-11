@@ -1,18 +1,22 @@
-# Masters Student | Machine Learning
-# The Pennsylvania State University
+# Ph.D. Student | Machine Learning
+# Virginia Tech
 
 #### Technical Skills: Python, PyTorch, Latex, MATLAB, C/C++, Mathematica
 
-## Education					       		
+## Education	
+- Ph.D., Computer Science	| Virginia Tech (Fall 2026 - ongoing)	
 - M.S., Electrical Engineering and Computer Science	| The Pennsylvania State University (_December 2024_)	 			        		
 - B.Tech, Electronics and Communication Engineering | Jalpaiguri Government Engineering College (_June 2022_)
 
 ## Work Experience
-**Machine Learning Engineer (R&D) @Eriez (_Jan 2025 - present)**
-- Develop machine learning, deep learning, and digital signal processing (DSP) algorithms for real-time sensing and detection in industrial processing systems.
-- Designed and implemented multi-modal deep learning models by integrating vision and multi-sensor time series data for advanced process diagnostics.
-- Lead research initiatives on fine-tuning large language models (LLMs) for secure, on-premise deployment in internal tools supporting marketing and finance applications.
-- Collaborate with Penn State University to develop domain-informed classification and forecasting models tailored to industrial environments.
+**Machine Learning Engineer (R&D) @Eriez (_Jan 2025 - May 2026_)**
+- Developed machine learning, deep learning, and digital signal processing (DSP) algorithms for real-time sensing and detection in industrial processing systems.
+- Designed and implemented multimodal deep learning models integrating vision and multi-sensor time-series data for advanced process diagnostics.
+- Built multimodal time-series foundation models for complex industrial sensor data to enable robust representation learning across diverse applications.
+- Researched domain adaptation techniques for foundation models to improve generalization across heterogeneous industrial datasets.
+- Developed and deployed multimodal data collection and auto-annotation frameworks on Raspberry Pi 5 edge devices for scalable dataset acquisition.
+- Led research on fine-tuning large language models (LLMs) for secure, on-premise deployment in internal tools supporting marketing and finance applications.
+- Collaborated with The Pennsylvania State University to develop domain-informed classification and forecasting models tailored to industrial environments.
 - Working under the supervision of [Dr. Ankit Tyagi](https://www.linkedin.com/in/antyagi5/) 
 
 **Machine Learning Engineer (Intern) @Eriez (_May 2024 - Jul 2024_)**
